@@ -1,0 +1,36 @@
+[
+  {
+    "round": 1,
+    "mode": "dual",
+    "commission": 8.0,
+    "innovation": 20.0,
+    "imitation": true,
+    "display_share": 1.0,
+    "price_M": 25.0,
+    "price_S_platform": 28.0,
+    "price_S_direct": 18.0,
+    "profit_M": 21875.0,
+    "profit_S": -18.0,
+    "sales_M": 875.0,
+    "sales_S_platform": 0.0,
+    "sales_S_direct": 0.0,
+    "scenario": "ban_self_pref"
+  },
+  {
+    "round": 2,
+    "mode": "dual",
+    "commission": 9.5,
+    "innovation": 10.0,
+    "imitation": true,
+    "display_share": 1.0,
+    "price_M": 19.5,
+    "price_S_platform": 19.5,
+    "price_S_direct": 9.5,
+    "profit_M": 16331.25,
+    "profit_S": -2.0,
+    "sales_M": 837.5,
+    "sales_S_platform": 0.0,
+    "sales_S_direct": 0.0,
+    "scenario": "ban_self_pref"
+  }
+]
